@@ -7,7 +7,7 @@ on:
 
 env:
   AWS_REGION: us-east-1
-  ECR_REPOSITORY: lksdiycc2025-be
+  ECR_REPOSITORY: lksdiycc2025-fe
 
 jobs:
   build-and-push:
